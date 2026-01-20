@@ -1,4 +1,7 @@
- 👋 Hi, I'm Deepthi | Data Analyst & ML Explorer
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
+👋 Hi, I'm Deepthi | Data Analyst & ML Explorer
 
 Professional portfolio showcasing data-driven solutions ranging from e-commerce analytics to predictive machine learning models.
 
